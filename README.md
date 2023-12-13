@@ -10,9 +10,9 @@ You can also `git clone git@github.com:Krow10/code4rena-stats.git` and run [Jupy
 
 ## Notebooks
 
-- `findings_categories`: *todo*
-- `findings_value`: *todo*
-- `wardens`: *todo*
+- `findings`: value ($USD) of findings over time, by category, etc.
+- `trends`: trying to predict future trends in the Code4rena space.
+- `wardens`: warden's participation over time, rewards, etc.
 
 ## Data
 
